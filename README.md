@@ -1,4 +1,4 @@
-# chat-web
+# Vue Tailwind Sample
 
 ## Project setup
 ```
