@@ -1,5 +1,7 @@
 # Vue Tailwind Sample
 
+Boilerplate project used to start a Vue 2 project with TailwindCss.
+
 ## Project setup
 ```
 npm install
